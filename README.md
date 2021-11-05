@@ -64,9 +64,15 @@ A curated list of references for visualization techniques applied to epidemiolog
 
 
 
-## Visualization-in-Epidemiology Web Pages
-
-
-## Visualization-in-Epidemiology Blogs
+## Visualization-in-Epidemiology links
+1. [Visualization of Spatial and Temporal Data with Dynamic Maps](https://journals.lww.com/epidem/fulltext/2008/11001/Visualization_of_Spatial_and_Temporal_Data_with.141.aspx)
+2. [Using spatial and temporal modeling to visualize the effects of U.S. state issued stay at home orders on COVID-19 | Scientific Reports](https://www.nature.com/articles/s41598-021-93433-z)
+3. [Spatiotemporal Analysis | Columbia Public Health](https://www.publichealth.columbia.edu/research/population-health-methods/spatiotemporal-analysis)
+4. [Frontiers | An Introductory Framework for Choosing Spatiotemporal Analytical Tools in Population-Level Eco-Epidemiological Research | Veterinary Science](https://www.frontiersin.org/articles/10.3389/fvets.2020.00339/full)
+5. [Spatiotemporal visualization for the global COVID-19 surveillance by balloon chart | Infectious Diseases of Poverty | Full Text](https://idpjournal.biomedcentral.com/articles/10.1186/s40249-021-00800-z)
+6. [Spatiotemporal visualization for the global COVID-19 surveillance by balloon chart - PubMed](https://pubmed.ncbi.nlm.nih.gov/33648606/)
+7. [Space Time Visualization for Epidemiological Research](https://icaci.org/files/documents/ICC_proceedings/ICC2007/documents/doc/THEME%2017/Oral%202/Time%20Visualization%20for%20Epidemiological%20Research.doc)
+8. [Spatio-temporal data visualization for monitoring of control measures in the prevention of the spread of COVID-19 in Bosnia and Herzegovina. | Med Glas (Zenica);17(2): 265-274, 2020 Aug 01. | MEDLINE](https://search.bvsalud.org/global-literature-on-novel-coronavirus-2019-ncov/resource/en/covidwho-628227)
+9. [An Interactive Web Based Spatio-Temporal Visualization System](https://sail.usc.edu/~akramakr/pdfs/spatio-temporal-visualization.pdf)
 
 
